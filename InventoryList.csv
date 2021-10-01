@@ -1,0 +1,5 @@
+test1,102030,10a,100,TRUE,this is a test description 1
+test2,405060,20b,150,FALSE,this is a test description 2
+test3,708090,30b,25,TRUE,this is a test description 3
+test1,102030,10a,100,True,this is a test description
+this item,2020202,30a,40,False,this ia a description
